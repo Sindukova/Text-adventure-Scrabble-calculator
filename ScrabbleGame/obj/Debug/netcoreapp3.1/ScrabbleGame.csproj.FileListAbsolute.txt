@@ -1,0 +1,13 @@
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\bin\Debug\netcoreapp3.1\ScrabbleGame.exe
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\bin\Debug\netcoreapp3.1\ScrabbleGame.deps.json
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\bin\Debug\netcoreapp3.1\ScrabbleGame.runtimeconfig.json
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\bin\Debug\netcoreapp3.1\ScrabbleGame.runtimeconfig.dev.json
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\bin\Debug\netcoreapp3.1\ScrabbleGame.dll
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\bin\Debug\netcoreapp3.1\ScrabbleGame.pdb
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\obj\Debug\netcoreapp3.1\ScrabbleGame.csprojAssemblyReference.cache
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\obj\Debug\netcoreapp3.1\ScrabbleGame.AssemblyInfoInputs.cache
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\obj\Debug\netcoreapp3.1\ScrabbleGame.AssemblyInfo.cs
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\obj\Debug\netcoreapp3.1\ScrabbleGame.csproj.CoreCompileInputs.cache
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\obj\Debug\netcoreapp3.1\ScrabbleGame.dll
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\obj\Debug\netcoreapp3.1\ScrabbleGame.pdb
+C:\Users\Sindu\source\repos\ScrabbleGame\ScrabbleGame\obj\Debug\netcoreapp3.1\ScrabbleGame.genruntimeconfig.cache
